@@ -1,9 +1,5 @@
 # desafioDEVStart
->Projeto 01 de certificação DEVstart
-
-## 📖 Resumo do projeto
-O projeto é uma aplicação capaz de receber # desafioDEVStart
->Projeto 01 de certificação DEVstart
+>Projeto 01(parte 02) de certificação DEVstart
 
 ## 📖 Resumo do projeto
 O projeto é um software capaz de receber informações dos atletas e exibir a categoria, IMC, média calculada, o nome e as notas de um atleta de uma escola, calcular a média e apresentar ao usuário do programa.
